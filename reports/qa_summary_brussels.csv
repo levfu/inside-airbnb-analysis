@@ -1,0 +1,16 @@
+snapshot_date,rule_id,records_affected,handling_decision
+"16 March, 2025",QA001_price_zero,982,Flagged
+"16 March, 2025",QA002_coords_out_of_bounds,36,Flagged
+"16 March, 2025",QA003_duplicate_ids,0,Remove duplicates
+"16 March, 2025",QA004_invalid_neighbourhood,0,Flagged
+"16 March, 2025",QA005_orphaned_or_empty_reviews,23,Removed
+"21 June, 2025",QA001_price_zero,1020,Flagged
+"21 June, 2025",QA002_coords_out_of_bounds,39,Flagged
+"21 June, 2025",QA003_duplicate_ids,0,Remove duplicates
+"21 June, 2025",QA004_invalid_neighbourhood,0,Flagged
+"21 June, 2025",QA005_orphaned_or_empty_reviews,23,Removed
+"22 December, 2024",QA001_price_zero,848,Flagged
+"22 December, 2024",QA002_coords_out_of_bounds,38,Flagged
+"22 December, 2024",QA003_duplicate_ids,0,Remove duplicates
+"22 December, 2024",QA004_invalid_neighbourhood,0,Flagged
+"22 December, 2024",QA005_orphaned_or_empty_reviews,22,Removed

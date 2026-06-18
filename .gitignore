@@ -1,0 +1,6 @@
+raw/
+
+processed/**/calendar_processed.csv
+processed/**/listings_processed.csv
+processed/**/reviews_processed.csv
+processed/**/neighbourhoods_processed.csv
